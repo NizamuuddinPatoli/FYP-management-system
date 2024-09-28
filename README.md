@@ -1,6 +1,5 @@
 # FYP-management-system
 
-Here’s a description of your FYP (Final Year Project) Management System:
 
 This FYP Management System is built using MySQL and PHP, designed to streamline the process of managing final year projects. It consists of four panels:
 
